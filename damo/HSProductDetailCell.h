@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HSProductDetailCell.h
 //  damo
 //
 //  Created by hoomsun on 16/5/26.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HSProductDetailCell : UITableViewCell
 
 @end
-
